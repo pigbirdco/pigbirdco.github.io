@@ -1,0 +1,1 @@
+(self.webpackChunkpigbirdco=self.webpackChunkpigbirdco||[]).push([[105],{7404:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/pigbirdco/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/pigbirdco/blog/tags/docusaurus"}')}}]);

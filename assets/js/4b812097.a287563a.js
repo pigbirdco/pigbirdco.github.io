@@ -1,0 +1,1 @@
+(self.webpackChunkpigbirdco=self.webpackChunkpigbirdco||[]).push([[816],{8656:function(l){"use strict";l.exports=JSON.parse('{"allTagsPath":"/pigbirdco/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/pigbirdco/blog/tags/hello"}')}}]);
