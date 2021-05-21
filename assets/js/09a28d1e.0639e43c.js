@@ -1,1 +1,0 @@
-(self.webpackChunkpigbirdco=self.webpackChunkpigbirdco||[]).push([[590],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/pigbirdco/blog/welcome"},{"title":"Hello","permalink":"/pigbirdco/blog/hello-world"},{"title":"Hola","permalink":"/pigbirdco/blog/hola"}]}')}}]);
